@@ -1,0 +1,45 @@
+FUNCTIONS						COMMAND/CONTROLS
+1. Save							"save" / Ctrl + S
+	=> Save As					"nsave" / Ctrl + Alt + S
+
+2.  Close Document					Escape/close
+
+3.  Find (Case Insesitive)				"find"
+	=> Find Next					Ctrl + N
+4.  Find (Case Sensitive)				"findc"
+	=> Find Next					Ctrl + N
+
+5.  Replace First					"repf"
+6.  Replace All						"repa"
+
+7.  Add Prefix						"pref"
+8.  Add Postfix						"posf"
+
+9.  Word Count Utility 					"wc"
+
+10. Goto Longest Word					"lword"
+11. Goto Smallest Word					"sword"
+
+13. Goto Highest Alphabet Word				"hword"
+==>(word from which you can 
+	make the most subwords 
+	present in the document)	
+
+14. Password Menu					"pass"
+
+15. Open A New Document					"open"
+
+16. Switch Documents				 	Ctrl + Tab
+==>(*between opened documents)
+
+18.Find/Replace Previous/Next/All			"repc"
+==>(from cursor position)
+	==> Find Next					Ctrl + N
+	==> Find Previous				Ctrl + B
+	==> Replace Current				Ctrl + R
+	==> Replace All(Next)				Ctrl + Alt + N
+	==> Replace All(Previous)			Ctrl + Alt + B
+
+18. Enable/Disable Encoding				"encode"
+	
+19. Open This Menu					F1

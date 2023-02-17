@@ -1,0 +1,43 @@
+FUNCTIONS						SHORTCUT
+1. Save							Ctrl + S
+	=> Save As					Ctrl + Alt + S
+
+2.  Close Document					Escape
+
+3.  Find (Case Insesitive)				Ctrl + Alt + F
+	=> Find Next					Ctrl + N
+4.  Find (Case Sensitive)				Ctrl + Alt + G
+	=> Find Next					Ctrl + N
+
+5.  Replace						Ctrl + R
+6.  Replace All						Ctrl + Alt + R
+
+7.  Add Prefix						Ctrl + P
+8.  Add Postfix						Ctrl + Alt + P
+
+9.  Word Count Utility 					Ctrl + L
+
+10. Goto Longest Word					Ctrl + Alt + B
+11. Goto Smallest Word					Ctrl + Alt + T
+
+13. Goto Highest Alphabet Word				Ctrl + Alt + H
+==>(word from which you can 
+	make the most subwords 
+	present in the document)	
+
+14. Add/Remove Password					Ctrl + Alt + L
+
+15. Open A New Document					Ctrl + Alt + O
+
+16. Switch Documents				 	Ctrl + Tab
+==>(*between opened documents)
+
+18.Find/Replace Previous/Next/All			Ctrl + Alt + C
+==>(from cursor position)
+	==> Find Next					Ctrl + N
+	==> Find Previous				Ctrl + B
+	==> Replace Current				Ctrl + R
+	==> Replace All(Next)				Ctrl + Alt + N
+	==> Replace All(Previous)			Ctrl + Alt + B
+	
+18. Open This Menu					F1
